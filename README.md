@@ -237,29 +237,16 @@ All modules include inline comments, type hints, and are designed for testabilit
 
 ---
 
-## 📋 Submission Checklist
-- ✅ Source code with documentation
-- ✅ Streamlit dashboard + backend modules
-- ✅ Unit tests for core modules
-- ✅ Demo notebook (`demo.ipynb`)
-- ✅ Video demonstration
-- ✅ Resume attached
-- ✅ Subject line: `Back End - Fear & Greed Sentiment Engine`
+
 
 ---
 
 ## 📬 Contact & License
 - **Author**: Lakshya Sharma  
 - **Email**: sharmalakshya107@gmail.com  
-- **License**: Proprietary – for GoQuant recruitment evaluation only. Not for public distribution.
+- **License**: Proprietary – for  evaluation only. Not for public distribution.
 
----
-
-## 🛡️ Confidentiality Notice
-This project and associated code are submitted exclusively for GoQuant recruitment. Do not share, publish, or post any content publicly (including GitHub, YouTube, etc.).
-
----
 
 ## 👨‍💻 Author
 Developed by **Lakshya Sharma**  
-**Role**: Backend Engineer Candidate – GoQuant Sentiment Engine Project  
+
