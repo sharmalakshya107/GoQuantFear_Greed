@@ -1,5 +1,5 @@
 
-# 🚀 GoQuant Fear & Greed Sentiment Engine
+# 🚀 Axes Fear & Greed Sentiment Engine
 
 ## Overview
 
